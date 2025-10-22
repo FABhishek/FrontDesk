@@ -6,10 +6,12 @@
 1. pnpm install
 2. npm run dev
 
-# Python Microservice (used python, as SDK was only available in nodejs and python)
+# Python Microservice 
+(used python, as SDK was only available in nodejs and python)
 refer to livekit's documentation
 
-# Go backend (for API calls, used it as there was language flexibility of choosing any)
+# Go backend 
+(for API calls, used it as there was language flexibility of choosing any)
 1. go build
 2. go run.
 
