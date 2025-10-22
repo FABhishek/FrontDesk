@@ -1,0 +1,5 @@
+name: postgres
+user: postgres.jirvhaerqxdjtrbctmix
+password: '!str0nGdBk3y@'
+host: aws-1-ap-south-1.pooler.supabase.com
+port: 6543

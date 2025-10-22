@@ -1,0 +1,46 @@
+[2025-10-18 15:10:05] 🔄 Falling back to Go backend: {"participant_id": "PA_mock_user", "participant_identity": "mock_user", "question": ["What is the revenue generated in the last month."]}
+[2025-10-18 15:13:17] 🔄 Falling back to Go backend: {"participant_id": null, "participant_identity": null, "question": ["I want to know the revenue generated as last month"]}
+[2025-10-18 15:38:38] 🔄 Falling back to Go backend: {"participant_Id": "PA_SVhzr2CofRNj", "participant_identity": "voice_assistant_user_5418", "question": ["I want to know the revenue generated in the last month"]}
+[2025-10-21 17:11:56] 🔄 Falling back to Go backend: {"customer_id": "PA_JjWmvKNoQbmu", "query_text": ["What is the cause for taper card."], "answer": "", "query_status": 0}
+[2025-10-21 17:15:15] 🔄 Falling back to Go backend: {"customer_id": "PA_AZA89ep5zGVW", "query_text": ["What is the course for tablecut."], "answer": "", "query_status": 0}
+[2025-10-21 17:17:23] 🔄 Falling back to Go backend: {"customer_id": "PA_dpZrpXZuhuQh", "query_text": ["What is the cost of taper fade cut."], "answer": "", "query_status": 0}
+[2025-10-21 17:25:24] 🔄 Falling back to Go backend: {"customer_id": "PA_Bg9EJL8huaCE", "query_text": ["What is the cost for taper fed cut."], "answer": "", "query_status": 0}
+[2025-10-21 19:47:19] 🔄 Falling back to Go backend: {"customer_id": "PA_htnyU8rqcGxT", "query_text": ["I want to know if there's a tip of a available at the slawn"], "answer": "", "query_status": 0}
+[2025-10-21 19:49:36] 🔄 Falling back to Go backend: {"customer_id": "PA_yom4NkmKVARt", "query_text": "Step of aid available.", "answer": "", "query_status": 0}
+[2025-10-22 13:02:24] 🔄 Falling back to Go backend: {"customer_id": "PA_pqu542vu3iNk", "query_text": "Is the cost to get a buzz cut.", "answer": "", "query_status": 0}
+[2025-10-22 13:46:28] 🔄 Falling back to Go backend: {"customer_id": "PA_rFu3H6nnujvf", "query_text": "What is to get a deeper low fade", "answer": "", "query_status": 0}
+[2025-10-22 13:47:43] 🔄 Falling back to Go backend: {"customer_id": "PA_rFu3H6nnujvf", "query_text": "What is the price to get a deeper low fade.", "answer": "", "query_status": 0}
+[2025-10-22 13:48:26] 🔄 Falling back to Go backend: {"customer_id": "PA_rFu3H6nnujvf", "query_text": "What is the price to get deeper low fade", "answer": "", "query_status": 0}
+[2025-10-22 13:49:03] 🔄 Falling back to Go backend: {"customer_id": "PA_rFu3H6nnujvf", "query_text": "What is the price to get a deeper low fade.", "answer": "", "query_status": 0}
+[2025-10-22 13:49:16] 🔄 Falling back to Go backend: {"customer_id": "PA_rFu3H6nnujvf", "query_text": "What is the pro buzz cut.", "answer": "", "query_status": 0}
+[2025-10-22 13:51:36] 🔄 Falling back to Go backend: {"customer_id": "PA_5QK9bTofaQzQ", "query_text": "What is the cost to get a mullet cut.", "answer": "", "query_status": 0}
+[2025-10-22 13:52:11] 🔄 Falling back to Go backend: {"customer_id": "PA_5QK9bTofaQzQ", "query_text": "What is the cost to get a mullet cut.", "answer": "", "query_status": 0}
+[2025-10-22 13:53:54] 🔄 Falling back to Go backend: {"customer_id": "PA_ns7dggqbqNHa", "query_text": "What is the cause to get a mullet cut", "answer": "", "query_status": 0}
+[2025-10-22 13:55:14] 🔄 Falling back to Go backend: {"customer_id": "PA_DDV8JyBZpV3w", "query_text": "What is the price to get amoled cut.", "answer": "", "query_status": 0}
+[2025-10-22 14:08:50] 🔄 Falling back to Go backend: {"customer_id": "PA_8cFVvUyHrMru", "query_text": "What is the cost data textured crop.", "answer": "", "query_status": 0}
+[2025-10-22 14:50:08] 🔄 Falling back to Go backend: {"customer_id": "PA_pSwDerfaJqQx", "query_text": ["What is the cost to get a textured crop."], "answer": "", "query_status": 0}
+[2025-10-22 14:52:44] 🔄 Falling back to Go backend: {"customer_id": "PA_REj7B3MfGpV9", "query_text": "What is the cost to get a textured crop.", "answer": "", "query_status": 0}
+[2025-10-22 14:53:31] 🔄 Falling back to Go backend: {"customer_id": "PA_REj7B3MfGpV9", "query_text": "What is the cost to get a textured crop.", "answer": "", "query_status": 0}
+[2025-10-22 15:16:19] 🔄 Falling back to Go backend: {"customer_id": "PA_fHw2qNhE8nqn", "query_text": "What is the cost to get an", "answer": "", "query_status": 0}
+[2025-10-22 15:18:08] 🔄 Falling back to Go backend: {"customer_id": "PA_7FWMktCe3vKe", "query_text": "What is the cost to get a natural fade.", "answer": "", "query_status": 0}
+[2025-10-22 15:21:40] 🔄 Falling back to Go backend: {"customer_id": "PA_X2hbtMfgMQGS", "query_text": "What is the cause to get a natural feed", "answer": "", "query_status": 0}
+[2025-10-22 15:22:33] 🔄 Falling back to Go backend: {"customer_id": "PA_X2hbtMfgMQGS", "query_text": "What is the cause to catch a natural feed", "answer": "", "query_status": 0}
+[2025-10-22 15:22:48] 🔄 Falling back to Go backend: {"customer_id": "PA_X2hbtMfgMQGS", "query_text": "What a cause to get a natural feed", "answer": "", "query_status": 0}
+[2025-10-22 15:23:04] 🔄 Falling back to Go backend: {"customer_id": "PA_X2hbtMfgMQGS", "query_text": "What is the cost to get a natural feed", "answer": "", "query_status": 0}
+[2025-10-22 18:53:24] 🔄 Falling back to Go backend: {"customer_id": "PA_Bsak8VktGb6B", "query_text": "What is the cost to get a mullet cut.", "answer": "", "query_status": 0}
+[2025-10-22 19:33:28] 🔄 Falling back to Go backend: {"customer_id": "PA_wV6Mc92sE8AK", "query_text": "And what is the price for french crop.", "answer": "", "query_status": 0}
+[2025-10-22 19:56:30] 🔄 Falling back to Go backend: {"customer_id": "PA_xifvC7MDhJ7G", "query_text": "Can I know when does the fixed loan open up.", "answer": "", "query_status": 0}
+[2025-10-22 20:08:59] 🔄 Falling back to Go backend: {"customer_id": "PA_JVaQGsneEbLc", "query_text": "What is the price to get a normal fade.", "answer": "", "query_status": 0}
+[2025-10-22 20:19:13] 🔄 Falling back to Go backend: {"customer_id": "PA_gEzycAWi7rav", "query_text": "And what is the price for a french crop.", "answer": "", "query_status": 0}
+[2025-10-22 22:27:40] 🔄 Falling back to Go backend: {"customer_id": "PA_w5Z9Caq4bgmW", "query_text": "And what is the price of normal food", "answer": "", "query_status": 0}
+[2025-10-22 22:28:54] 🔄 Falling back to Go backend: {"customer_id": "PA_ntp8h5fKXUzL", "query_text": "I want to know the cost for normal food", "answer": "", "query_status": 0}
+[2025-10-22 22:33:54] 🔄 Falling back to Go backend: {"customer_id": "PA_iC7woY2PzqmP", "query_text": "I want to know the tanning", "answer": "", "query_status": 0}
+[2025-10-22 22:36:37] 🔄 Falling back to Go backend: {"customer_id": "PA_u6wFQNEcGUyo", "query_text": "I want to know the tennis on sunday.", "answer": "", "query_status": 0}
+[2025-10-22 22:41:01] 🔄 Falling back to Go backend: {"customer_id": "PA_LqvbrUhWyEdA", "query_text": "What is the price for bench graph.", "answer": "", "query_status": 0}
+[2025-10-22 22:43:38] 🔄 Falling back to Go backend: {"customer_id": "PA_aNT8tt4Xwk7x", "query_text": "The price for bulk cut", "answer": "", "query_status": 0}
+[2025-10-22 22:46:12] 🔄 Falling back to Go backend: {"customer_id": "PA_KpqbYnpwJNgx", "query_text": "How much does a ticker feed would cost", "answer": "", "query_status": 0}
+[2025-10-22 22:47:40] 🔄 Falling back to Go backend: {"customer_id": "PA_dHjP4NbHduYe", "query_text": "How much does the ticket would cost.", "answer": "", "query_status": 0}
+[2025-10-22 22:47:55] 🔄 Falling back to Go backend: {"customer_id": "PA_dHjP4NbHduYe", "query_text": "What is the cost of picker speed", "answer": "", "query_status": 0}
+[2025-10-22 22:48:17] 🔄 Falling back to Go backend: {"customer_id": "PA_dHjP4NbHduYe", "query_text": "What is the cost for picker speed", "answer": "", "query_status": 0}
+[2025-10-22 22:55:51] 🔄 Falling back to Go backend: {"customer_id": "PA_vATFuxJYk7sJ", "query_text": "What is the cost for normal feed", "answer": "", "query_status": 0}
+[2025-10-22 22:57:33] 🔄 Falling back to Go backend: {"customer_id": "PA_HBZ8BTZEDKzN", "query_text": "I want to know the cost for french crop.", "answer": "", "query_status": 0}

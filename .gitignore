@@ -1,0 +1,5 @@
+PyMicroService/livekit-voice-agent/.venv
+PyMicroService/livekit-voice-agent/KMS
+PyMicroService/livekit-voice-agent/.env.local
+PyMicroService/livekit-voice-agent/agent-debug.log
+
