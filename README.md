@@ -1,8 +1,8 @@
-# Admin front end setup:
+# Admin frontend setup:
 1. npm install
 2. npm run dev
 
-# Client front end setup: 
+# Client frontend setup: 
 (This code is part of Livekit's documentation, can be ignored from reviewing)
 1. pnpm install
 2. npm run dev
