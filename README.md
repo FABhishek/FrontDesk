@@ -23,7 +23,9 @@ Database used is supabase(postgres) as I was more familiar with it and was easy 
 Note: During screen recording it crashed unexpectedly, although I have covered the most of the important information in video itself, few points I wasn't able to mention:
 <img width="1620" height="478" alt="image" src="https://github.com/user-attachments/assets/4857cfce-2264-42e4-b0d2-b9369162cf3d" />
 1) We have customer Id available in admin panel, and can record each query associated with customer, so that we can fire webhook easily and notify customers on spot.
-2) We can mark the queries as Unresolved using a cron job, which will mark them as unresolved after a certain period of time (assume cron job runs every night)
-3) Database schema (could've been more organized, but this was sufficient for the task)
+2) Knowledge base is updating in database and before getting the context instructions agent is fetching all the updated memory before answering the call.
+3) For scaling we may need to simulate the multiple call experience to monitor the performance, for scaling we usually include cache, more servers, async processing, use grpc (protocol buffers) for smooth microservice communications, rate limitting, DB indexing (RDBMS) and monitoring to see bottlenecks while scaling. To be precise it requires codebase familarity and further calloborative discussion with team.
+4) We can mark the queries as Unresolved using a cron job, which will mark them as unresolved after a certain period of time (assume cron job runs every night)
+5) Database schema (could've been more organized, but this was sufficient for the task)
 <img width="850" height="794" alt="image" src="https://github.com/user-attachments/assets/90c9219c-72e6-47bc-a3da-1031d04fd9c1" />
 
