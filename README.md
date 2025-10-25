@@ -12,7 +12,7 @@
 refer to livekit's documentation
 
 # Go backend 
-(for API calls, used it as there was language flexibility of choosing any)
+(for API calls, used it as there was language flexibility)
 1. go build
 2. go run.
 
