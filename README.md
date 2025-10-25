@@ -16,6 +16,7 @@ refer to livekit's documentation
 1. go build
 2. go run.
 
+# Design Decisions
 Database used is supabase(postgres) as I was more familiar with it and was easy to setup.
 
 
